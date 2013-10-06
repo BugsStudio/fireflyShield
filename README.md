@@ -1,4 +1,4 @@
 fireflyShield
 =============
 
-A base Shield using ardunio api 
+A base Shield using ardunio api. 
